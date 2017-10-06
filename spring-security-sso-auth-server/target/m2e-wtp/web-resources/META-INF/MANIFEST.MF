@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-sso-auth-server
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Nishant11960
+Implementation-Vendor-Id: org.baeldung
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/parent-boot-
+ 5/spring-security-sso/spring-security-sso-auth-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,5 @@
+org\baeldung\config\AuthorizationServerApplication.class
+org\baeldung\config\AuthServerConfig.class
+org\baeldung\config\SecurityConfig.class
+org\baeldung\config\AppErrorController.class
+org\baeldung\config\UserController.class
